@@ -1,6 +1,6 @@
 # OnSite学习中心 - 自动驾驶示例模型教学资源库
 
-[![Onsite_learning center]([https://github.com/yourusername/onsite-learning-center](http://110.42.248.92/onsite-learning-center/))
+[[![Onsite_learning center]([https://github.com/yourusername/onsite-learning-center](http://110.42.248.92/onsite-learning-center/))](http://110.42.248.92/onsite-learning-center/)
 
 
 ## 🌟 项目概述
